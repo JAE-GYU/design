@@ -1,6 +1,5 @@
 # JAE-GYU DESIGN
-디자인을 연습해요.
-
+디자인도 할 줄 아는 개발자가 되어보자.
 
 ## Web Design
 
